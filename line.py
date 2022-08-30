@@ -4,8 +4,6 @@ import bs4
 import openpyxl
 from selenium import webdriver
 
-linelist = []
-
 
 def get_driver():
     options = webdriver.ChromeOptions()
