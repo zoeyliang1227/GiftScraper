@@ -8,4 +8,4 @@ Use **slelenium** to crawl linegift
 - Install Python 3.8
 
 ## Run
-- python linegift.py
+- python line.py
