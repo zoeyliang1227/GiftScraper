@@ -5,7 +5,7 @@ Use **slelenium** to crawl linegift
 
 ## Install
 
-- Install Python 3.11
+- Install Python 3.8
 
 ## Run
 - python linegift.py
