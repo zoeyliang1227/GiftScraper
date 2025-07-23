@@ -1,7 +1,7 @@
 ># Windows
 
 ## Description
-Use **slelenium** to crawl linegift
+Use **slelenium** and **beautifulsoup4** to crawl linegift
 
 ## Install
 
